@@ -38,7 +38,7 @@ This project delves into **Natural Language Processing (NLP)** and **Classificat
 ## 🚀 Getting Started
 
 ### Prerequisites
-To run the Jupyter Notebooks in this repository, you will need the following Python libraries installed:
+To run the Google Colab in this repository, you will need the following Python libraries installed:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
